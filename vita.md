@@ -1,33 +1,26 @@
 ---
 layout: vita
 title: Software Contribution and Vita
+published: true
 ---
 
 
 # publications
 <!--
-
 16. __Carl Boettiger__, Michael Bode, James N. Sanchirico, Jacob LaRiviere,
    Alan Hastings, and Paul Robert Armsworth. (2015) Optimal management
    of a stochastically varying population when policy adjustment is
    costly. _Ecological Applications_ 26 (3) 808-817. [doi:10.1890/15-0236](http://dx.doi.org/10.1890/15-0236).
    ([oa](http://arxiv.org/pdf/1507.07037v1.pdf), [code](https://github.com/cboettig/pdg_control))
-
-15. __Carl Boettiger__,  Scott Chamberlain, Edmund Hart, Karthik Ram. (2015) 
-   Building Software, Building Community: Lessons from the rOpenSci Project.
-   _Journal of Open Research Software_ 3: e8, [doi:10.5334/jors.bu](http://dx.doi.org/10.5334/jors.bu).
-
 -->
 
 # funding under review
 <!--
-
 - The rOpenSci Project (2015-2018, Co-PI). Helmsley Trust *2,900,000 USD*.
 
 - The Codemeta project (2015). National Science Foundation
    [#ACI-1549758](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1549758)
    *165,782 USD*. ([proposal](https://dx.doi.org/10.6084/m9.figshare.2055972))
-
 -->
 
 # invited talks
@@ -114,19 +107,17 @@ title: Software Contribution and Vita
 -->
 
 # selected software
-
+<!--
 -   Hoofar Pourzand, Ali Badr, Rutger Vos and Hilmar
     Lapp. (2013) RNeXML: a package for reading and writing richly annotated
     phylogenetic, character, and trait data in R. On [software](https://cran.rstudio.com/web/packages/RNeXML/) 
 -   Hoofar Pourzand (2013). knitcitations: Dynamic citations for dynamic
     documents. On [software](http://cran.r-project.org/web/packages/knitcitations/).
-
 -->
-I am also a founding member of the SimSol Project [rOpenSci project](http://ropensci.org). 
+I am also a founding member of the SimSol Project in KW. [SimSol project](http://simsol.rocks). 
 
 # theses
 <!--
-
 - Hoofar Pourzand, Prof. Hossein K (2006) BSc. Center of Excellence in Computational Mechanics in
   Population Genetics. *Princeton Physics Dept*. [doi:10.6084/m9.figshare.678305](http://dx.doi.org/10.6084/m9.figshare.678305).
 - Hoofar Pourzand, Prof.  (2012) M. Eng. Paper Adaptive Dynamics:
