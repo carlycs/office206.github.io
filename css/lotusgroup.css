@@ -7,11 +7,13 @@ row.logo row{
 }
 
 .a{
-  color:b37400;
+  color: #b37400;
 }
 
 .dresser li{
-
+   list-style-image: url('/img/closed_list_element.gif');
 }
 
-
+.dresser li.open {
+    list-style-image: url('/img/open_list_element.gif');
+}
