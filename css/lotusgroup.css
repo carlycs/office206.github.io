@@ -17,3 +17,7 @@ a{
 .dresser li.open {
     list-style-image: url('/img/open_list_element.gif');
 }
+
+.img-circle{
+    border-radius:50%; 
+}
