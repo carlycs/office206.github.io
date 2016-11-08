@@ -5,6 +5,7 @@ date:   2016-01-11 15:14:54
 categories: jekyll
 tags: jekyll
 excerpt: this is the excerpt
+fbcomments: yes
 ---
 
 ###Code challenge review

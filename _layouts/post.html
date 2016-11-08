@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Computing notes of Lotus Group 
+title: Computing notes of Lotus Group
 ---
 
 <p class="meta">
@@ -15,5 +15,7 @@ title: Computing notes of Lotus Group
 <div id="post">
   {{ content }}
 </div>
-
-<div class="fb-comments" data-href="http://www.lotustech.io/" data-numposts="5"></div>
+{% include facebook-init.html %}
+{ % if page.fbcomments %}
+<div class="fb-comments" data-href="http://www.lotustech.io/{{page.url}}" data-numposts="4"></div>
+{% endif %}
