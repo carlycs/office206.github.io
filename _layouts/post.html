@@ -16,6 +16,8 @@ title: Computing notes of Lotus Group
   {{ content }}
 </div>
 {% include facebook-init.html %}
-{ % if page.fbcomments %}
+{% if page.fbcomments %}
+  <hr/>
+  <h4> Comments</h4>
 <div class="fb-comments" data-href="http://www.lotustech.io/{{page.url}}" data-numposts="4"></div>
 {% endif %}
