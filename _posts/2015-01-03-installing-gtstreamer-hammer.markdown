@@ -4,7 +4,7 @@ title:  "How to download a website entirely"
 date:   2015-01-03 13:29:50
 categories: Systems
 published: true
-comments: true
+fbcomments: yes
 
 ---
 #How to download a website entirely
