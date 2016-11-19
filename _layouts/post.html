@@ -15,9 +15,11 @@ title: Computing notes of Lotus Group
 <div id="post">
   {{ content }}
 </div>
-{% include simplesharingbttn.html %}
-{% if page.sharing %}
 
+{% if page.sharing %}
+{% include simplesharingbttn.html %}
+{% endif %}
+ 
 {% include facebook-init.html %}
 {% if page.fbcomments %}
   <hr/>

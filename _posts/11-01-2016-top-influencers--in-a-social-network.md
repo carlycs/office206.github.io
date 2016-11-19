@@ -6,6 +6,7 @@ categories: jekyll
 tags: jekyll
 excerpt: this is the excerpt
 fbcomments: yes
+sharing: yes
 ---
 
 ###Code challenge review
