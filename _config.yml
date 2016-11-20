@@ -5,12 +5,23 @@ baseurl: /hoofarp/
 title: Lotus Industries and Consulting Group
 email: hp@lotustech.io
 description: "Lotus Industries and Consulting Group Project page and main page. We focus on Data Engineering, Data Visuallization in eCommerce (Shipify and bigcommerce)."
-
+author:"Hoofar Pourzand"
+logo:/img/lotus12.JPG
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+twitter:
+  username: hoofarpourzand
+#review these later
+facebook:
+  app_id: 1674402599442891  
+  publisher: 413978035393689
+  admins: https://www.facebook.com/hoofar.pourzand
+  
 social:
   - title: twitter
     url: http://twitter.com/hoofarpourzand
   - title: github
     url: http://github.com/office206
    
+gems:
+  - jekyll-seo-tag
