@@ -1,10 +1,10 @@
 url: https://office206.github.io
-baseurl:  /hoofarp/
+baseurl:
 
 # Site settings
 title:  "Lotus Industries and Consulting Group"
 email:  hp@lotustech.io
-description:  "Lotus Industries and Consulting Group Project page and main page. We focus on Data Engineering, Data Visuallization in eCommerce (Shipify and bigcommerce)."
+description:  "Lotus Industries and Consulting Group Project page and main page. We focus on Data Engineering, Data Visuallization and Machine Learning applications in eCommerce (facebook ad, google ad, adwords, adsense, twitter ads, Shopify and bigcommerce)."
 author: "Hoofar Pourzand"
 logo: /img/lotus12.JPG
 
@@ -22,6 +22,8 @@ social:
     url: http://twitter.com/hoofarpourzand
   - title: github
     url: http://github.com/office206
+  - title : linkedin
+    url:  https://www.linkedin.com/in/hoofar-pourzand
    
 gems:
   - jekyll-seo-tag
