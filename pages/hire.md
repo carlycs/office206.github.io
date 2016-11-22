@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Hire Lotus
 permalink: /hire/
-layout: default-image
+layout: default
 image: /img/page-feature/hire-lotus.jpg
 lead: Let’s work together to design services and products that empower your team, better serve your customers, and tackle the big problems facing your agency.
 ---

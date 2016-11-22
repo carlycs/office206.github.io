@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Join Lotus
 permalink: /join/
-layout: default-image
+layout: default
 image: /img/page-feature/join.jpg
 lead: Now’s the time to get involved in transforming how the companies use their existing campaign data and build new data driven technologies. Join us.
 
