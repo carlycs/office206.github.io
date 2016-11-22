@@ -1,6 +1,6 @@
 ---
 title: What we deliver
-permalink: /code-of-conduct/
+permalink: /what-we-deliver/
 layout: default
 lead:
 ---

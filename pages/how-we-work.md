@@ -1,5 +1,4 @@
 ---
-layout: default
 title: How we work at Lotus Group
 permalink: /how-we-work/
 layout: default
