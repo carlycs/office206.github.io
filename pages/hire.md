@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Hire Lotus
 permalink: /hire/
 layout: default-image
