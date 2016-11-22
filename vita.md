@@ -1,6 +1,7 @@
 ---
 layout: vita
 title: Software Contribution and Vita
+permalink:  /cv/
 published: true
 ---
 
